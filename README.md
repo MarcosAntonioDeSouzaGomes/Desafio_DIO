@@ -1,6 +1,6 @@
-# Repositorio Criado para O desafio de Git e Github :star
+# Repositorio Criado para O desafio de Git e Github :star:
 
-## Nome :dizzy_face
+## Nome :dizzy_face:
 
 ### Marcos Antonio
 
